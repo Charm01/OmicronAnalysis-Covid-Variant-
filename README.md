@@ -14,4 +14,5 @@ We have the following data with us:
 
 
 For the purpose of visualizing the cases in the countries, I have used a concept named "Bar Chart Race".
+          
           A Bar chart Race is basically an evolution of an ordinary Barc chart over time.
